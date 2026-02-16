@@ -1,0 +1,16 @@
+C:\aCPT-236\TBall-CPT236-LabDBState\bin\Debug\StateDB.mdf
+C:\aCPT-236\TBall-CPT236-LabDBState\bin\Debug\StateDB_log.ldf
+C:\aCPT-236\TBall-CPT236-LabDBState\bin\Debug\TBall-CPT236-LabDBState.exe.config
+C:\aCPT-236\TBall-CPT236-LabDBState\bin\Debug\TBall-CPT236-LabDBState.exe
+C:\aCPT-236\TBall-CPT236-LabDBState\bin\Debug\TBall-CPT236-LabDBState.pdb
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall-CPT236-LabDBState.csproj.AssemblyReference.cache
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall_CPT236_LabDBState.Properties.Resources.resources
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall-CPT236-LabDBState.csproj.GenerateResource.cache
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall-CPT236-LabDBState.csproj.CoreCompileInputs.cache
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall-CPT236-LabDBState.exe
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall-CPT236-LabDBState.pdb
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall_CPT236_LabDBState.TBall_StateDB_Lab3.resources
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall_CPT236_LabDBState.DetailsForm.resources
+C:\aCPT-236\TBall-CPT236-LabDBState\bin\Debug\TBall_CPT236_LabDBState.dll
+C:\aCPT-236\TBall-CPT236-LabDBState\bin\Debug\TBall_CPT236_LabDBState.pdb
+C:\aCPT-236\TBall-CPT236-LabDBState\obj\Debug\TBall-CP.7B73171D.Up2Date
